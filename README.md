@@ -1,3 +1,11 @@
+#Mia Pamplona
+
+##Cualidades de Mia
+1. Le gusta la fotografia
+2. Ama viajar y conocer
+
+![Mia](https://user-images.githubusercontent.com/100798781/166820571-6175954c-5757-4e25-aaaa-452c12648a2c.png))
+
 ### Hi there 👋
 
 <!--
